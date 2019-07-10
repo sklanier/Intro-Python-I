@@ -3,4 +3,4 @@
 
 # YOUR CODE HERE
 
-2 ** 65536
+print(2**65525)
